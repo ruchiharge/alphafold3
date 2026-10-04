@@ -1,0 +1,374 @@
+5T89_VEGF_VEGFR_Complex
+28 distances
+    atom1           atom2       distance
+/A GLU 74 OE2   /C ASN 158 ND2    2.536
+/A GLU 74 OE1   /C ARG 129 NH2    2.536
+/A GLU 74 OE2   /C ASN 127 N      2.619
+/A GLU 74 OE1   /C ARG 129 NH1    2.675
+/A LYS 26 NZ    /C GLU 9 OE1      2.692
+/A ASP 73 OD1   /C ARG 92 NH2     2.708
+/A ASP 119 OD1  /C HIS 156 CE1    2.775
+/A GLU 74 OE1   /C GLN 152 NE2    2.808
+/A ASP 73 OD2   /C ARG 92 NE      2.851
+/A GLU 74 N     /C ASN 127 OD1    2.887
+/A GLU 74 OE1   /C ARG 129 CZ     3.038
+/A MET 28 CG    /C GLU 9 O        3.173
+/A ASP 73 OD1   /C ASN 127 ND2    3.254
+/A ASP 73 CG    /C ARG 92 NH2     3.308
+/A ASP 73 OD2   /C ASN 127 ND2    3.312
+/A ASP 73 OD2   /C ARG 92 NH2     3.327
+/A GLU 74 O     /C LEU 126 CD1    3.346
+/A PHE 27 CE1   /C PRO 11 CD      3.359
+/A GLU 74 OE2   /C ASN 127 CA     3.370
+/A TYR 31 OH    /C LEU 72 N       3.395
+/A GLU 74 CD    /C ASN 158 ND2    3.402
+/A GLU 74 CD    /C GLN 152 NE2    3.422
+/A PHE 27 CE1   /C PRO 11 CG      3.423
+/A TYR 31 OH    /C LEU 89 CD1     3.466
+/A GLU 74 CD    /C ARG 129 NH1    3.473
+/A GLU 74 OE2   /C ASN 158 CG     3.488
+/A GLN 32 CG    /C PHE 40 CE2     3.489
+/A GLU 74 OE2   /C ARG 129 NH1    3.500
+
+Models used:
+	1 5T89_VEGF_VEGFR_Complex_model.cif
+
+11 H-bonds
+H-bonds (donor, acceptor, hydrogen, D..A dist, D-H..A dist):
+/C ARG 129 NH2  /A GLU 74 OE1   no hydrogen  2.536  N/A
+/C ASN 158 ND2  /A GLU 74 OE2   no hydrogen  2.536  N/A
+/C ASN 127 N    /A GLU 74 OE2   no hydrogen  2.619  N/A
+/C ARG 129 NH1  /A GLU 74 OE1   no hydrogen  2.675  N/A
+/A LYS 26 NZ    /C GLU 9 OE1    no hydrogen  2.692  N/A
+/C ARG 92 NH2   /A ASP 73 OD1   no hydrogen  2.708  N/A
+/C ARG 92 NE    /A ASP 73 OD2   no hydrogen  2.851  N/A
+/A GLU 74 N     /C ASN 127 OD1  no hydrogen  2.887  N/A
+/C ASN 127 ND2  /A ASP 73 OD1   no hydrogen  3.254  N/A
+/C ARG 92 NH2   /A ASP 73 OD2   no hydrogen  3.327  N/A
+/C ARG 129 NH1  /A GLU 74 OE2   no hydrogen  3.500  N/A
+
+Models used:
+	1 5T89_VEGF_VEGFR_Complex_model.cif
+
+7 H-bonds
+H-bonds (donor, acceptor, hydrogen, D..A dist, D-H..A dist):
+/D ARG 149 NH1  /A ASP 51 OD1   no hydrogen  2.601  N/A
+/D ARG 129 NE   /A TYR 55 O     no hydrogen  2.639  N/A
+/A HIS 96 NE2   /D ASN 95 OD1   no hydrogen  2.880  N/A
+/D ARG 147 NH1  /A ASP 127 OD2  no hydrogen  2.963  N/A
+/A GLN 99 NE2   /D PRO 11 O     no hydrogen  3.183  N/A
+/D ARG 148 N    /A ASP 51 OD1   no hydrogen  3.213  N/A
+/D ILE 13 N     /A GLN 99 OE1   no hydrogen  3.278  N/A
+
+Models used:
+	1 5T89_VEGF_VEGFR_Complex_model.cif
+
+6 H-bonds
+H-bonds (donor, acceptor, hydrogen, D..A dist, D-H..A dist):
+/C ARG 149 NH1  /B ASP 51 OD1   no hydrogen  2.586  N/A
+/C ARG 129 NE   /B TYR 55 O     no hydrogen  2.663  N/A
+/C ARG 147 NH1  /B ASP 127 OD2  no hydrogen  2.846  N/A
+/B HIS 96 NE2   /C ASN 95 OD1   no hydrogen  2.910  N/A
+/C ARG 148 N    /B ASP 51 OD1   no hydrogen  3.216  N/A
+/B LYS 58 NZ    /C HIS 91 ND1   no hydrogen  3.326  N/A
+Models used:
+	1 5T89_VEGF_VEGFR_Complex_model.cif
+
+11 H-bonds
+H-bonds (donor, acceptor, hydrogen, D..A dist, D-H..A dist):
+/D ASN 158 ND2  /B GLU 74 OE2   no hydrogen  2.537  N/A
+/D ARG 129 NH2  /B GLU 74 OE1   no hydrogen  2.554  N/A
+/D ASN 127 N    /B GLU 74 OE2   no hydrogen  2.603  N/A
+/B LYS 26 NZ    /D GLU 9 OE1    no hydrogen  2.668  N/A
+/D ARG 129 NH1  /B GLU 74 OE1   no hydrogen  2.676  N/A
+/D ARG 92 NH2   /B ASP 73 OD1   no hydrogen  2.746  N/A
+/B GLU 74 N     /D ASN 127 OD1  no hydrogen  2.876  N/A
+/D ARG 92 NE    /B ASP 73 OD2   no hydrogen  2.892  N/A
+/D ASN 127 ND2  /B ASP 73 OD1   no hydrogen  3.227  N/A
+/D ARG 92 NH2   /B ASP 73 OD2   no hydrogen  3.362  N/A
+/D ARG 129 NH1  /B GLU 74 OE2   no hydrogen  3.525  N/A
+
+"fraction_disordered": 0.14,
+ "has_clash": 0.0,
+ "iptm": 0.83,
+ "ptm": 0.82,
+ "ranking_score": 0.89
+
+
+demo-5_1 
+at A 74 E -> Q
+34 distances
+    atom1          atom2       distance
+/A HIS 96 CD2  /C GLY 184 CA     2.628
+/A TYR 55 O    /C ARG 129 NE     2.805
+/A ASP 51 OD1  /C ARG 148 O      2.811
+/A HIS 96 NE2  /C GLY 184 CA     2.952
+/A HIS 96 NE2  /C ASN 95 ND2     2.970
+/A ASP 51 OD1  /C ARG 148 N      2.976
+/A ILE 53 O    /C ARG 129 CD     2.986
+/A HIS 96 CE1  /C PRO 185 CD     2.998
+/A GLN 99 OE1  /C ILE 13 CB      3.103
+/A HIS 96 NE2  /C PRO 185 CD     3.124
+/A HIS 96 NE2  /C ASN 95 CG      3.194
+/A LYS 58 NZ   /C HIS 91 CB      3.217
+/A PHE 46 CE2  /C ARG 129 NH2    3.268
+/A PRO 50 CB   /C ARG 149 NH1    3.275
+/A HIS 96 CE1  /C ASN 95 ND2     3.287
+/A HIS 96 CG   /C GLY 184 CA     3.319
+/A HIS 96 CD2  /C GLY 184 N      3.328
+/A HIS 96 NE2  /C ASN 95 OD1     3.333
+/A PRO 50 O    /C ARG 148 O      3.343
+/A TYR 55 O    /C ARG 129 CD     3.345
+/A MET 91 SD   /C ILE 13 CG1     3.349
+/A MET 91 SD   /C ILE 13 CD1     3.361
+/A GLU 54 O    /C ARG 129 CB     3.363
+/A PRO 50 CB   /C ARG 149 CZ     3.387
+/A GLN 99 OE1  /C ILE 13 CG1     3.388
+/A PRO 95 CA   /C GLN 93 NE2     3.405
+/A PRO 50 CG   /C ARG 149 NH2    3.412
+/A PRO 50 CG   /C ARG 149 CZ     3.438
+/A PRO 50 CG   /C ARG 149 NH1    3.463
+/A ILE 56 CG1  /C ARG 129 CG     3.468
+/A ILE 53 CG2  /C ARG 149 C      3.477
+/A GLN 99 CD   /C ILE 13 CG1     3.487
+/A GLU 54 OE1  /C GLN 131 CG     3.495
+/A GLU 54 CG   /C VAL 130 O      3.495
+
+10 distances
+    atom1           atom2       distance
+/B GLN 74 NE2   /C ASN 158 OD1    2.616
+/B GLN 74 OE1   /C ASN 158 ND2    2.722
+/B ASP 73 OD1   /C ARG 92 NH2     2.747
+/B LYS 26 NZ    /C GLU 9 OE1      2.771
+/B GLN 74 N     /C ASN 127 OD1    2.783
+/B ASP 73 OD2   /C ARG 92 NE      2.821
+/B LYS 26 NZ    /C GLU 9 OE2      2.869
+/B GLN 74 OE1   /C ASN 127 N      2.877
+/B GLN 74 NE2   /C GLN 152 NE2    2.892
+/B ASP 119 OD1  /C HIS 156 CE1    2.899
+
+10 distances
+    atom1           atom2       distance
+/A GLN 74 NE2   /D ASN 158 OD1    2.590
+/A GLN 74 OE1   /D ASN 158 ND2    2.712
+/A GLN 74 NE2   /D GLN 152 OE1    2.720
+/A ASP 73 OD1   /D ARG 92 NH2     2.765
+/A GLN 74 N     /D ASN 127 OD1    2.777
+/A ASP 73 OD2   /D ARG 92 NE      2.830
+/A LYS 26 NZ    /D GLU 9 OE1      2.845
+/A LYS 26 NZ    /D GLU 9 OE2      2.853
+/A GLN 74 OE1   /D ASN 127 N      2.858
+/A ASP 119 OD1  /D HIS 156 CE1    2.876
+
+8 distances
+    atom1          atom2       distance
+/B HIS 96 CD2  /D GLY 184 CA     2.675
+/B TYR 55 O    /D ARG 129 NE     2.827
+/B ASP 51 OD1  /D ARG 148 O      2.829
+/B HIS 96 NE2  /D ASN 95 ND2     2.943
+/B PHE 46 CD2  /D GLN 152 NE2    2.962
+/B PRO 50 CB   /D ARG 149 NH1    2.962
+/B HIS 96 NE2  /D GLY 184 CA     2.976
+/B ILE 53 O    /D ARG 129 CD     2.991
+
+
+Models used:
+	1 5T89_VEGF_VEGFR_demo5_1_model.cif
+
+2 H-bonds
+H-bonds (donor, acceptor, hydrogen, D..A dist, D-H..A dist):
+/C ARG 129 NE  /A TYR 55 O    no hydrogen  2.805  N/A
+/C ARG 148 N   /A ASP 51 OD1  no hydrogen  2.976  N/A
+
+Models used:
+	1 5T89_VEGF_VEGFR_demo5_1_model.cif
+
+12 H-bonds
+H-bonds (donor, acceptor, hydrogen, D..A dist, D-H..A dist):
+/A GLN 74 NE2   /D ASN 158 OD1  no hydrogen  2.590  N/A
+/D ASN 158 ND2  /A GLN 74 OE1   no hydrogen  2.712  N/A
+/A GLN 74 NE2   /D GLN 152 OE1  no hydrogen  2.720  N/A
+/D ARG 92 NH2   /A ASP 73 OD1   no hydrogen  2.765  N/A
+/A GLN 74 N     /D ASN 127 OD1  no hydrogen  2.777  N/A
+/D ARG 92 NE    /A ASP 73 OD2   no hydrogen  2.830  N/A
+/A LYS 26 NZ    /D GLU 9 OE1    no hydrogen  2.845  N/A
+/A LYS 26 NZ    /D GLU 9 OE2    no hydrogen  2.853  N/A
+/D ASN 127 N    /A GLN 74 OE1   no hydrogen  2.858  N/A
+/D ASN 127 ND2  /A ASP 73 OD1   no hydrogen  3.098  N/A
+/D ARG 92 NH2   /A ASP 73 OD2   no hydrogen  3.258  N/A
+/D ARG 129 NH1  /A GLN 74 OE1   no hydrogen  3.313  N/A
+
+Models used:
+	1 5T89_VEGF_VEGFR_demo5_1_model.cif
+
+11 H-bonds
+H-bonds (donor, acceptor, hydrogen, D..A dist, D-H..A dist):
+/B GLN 74 NE2   /C ASN 158 OD1  no hydrogen  2.616  N/A
+/C ASN 158 ND2  /B GLN 74 OE1   no hydrogen  2.722  N/A
+/C ARG 92 NH2   /B ASP 73 OD1   no hydrogen  2.747  N/A
+/B LYS 26 NZ    /C GLU 9 OE1    no hydrogen  2.771  N/A
+/B GLN 74 N     /C ASN 127 OD1  no hydrogen  2.783  N/A
+/C ARG 92 NE    /B ASP 73 OD2   no hydrogen  2.821  N/A
+/B LYS 26 NZ    /C GLU 9 OE2    no hydrogen  2.869  N/A
+/C ASN 127 N    /B GLN 74 OE1   no hydrogen  2.877  N/A
+/C ASN 127 ND2  /B ASP 73 OD1   no hydrogen  3.095  N/A
+/C ARG 92 NH2   /B ASP 73 OD2   no hydrogen  3.265  N/A
+/C ARG 129 NH1  /B GLN 74 OE1   no hydrogen  3.333  N/A
+
+
+Models used:
+	1 5T89_VEGF_VEGFR_demo5_1_model.cif
+
+2 H-bonds
+H-bonds (donor, acceptor, hydrogen, D..A dist, D-H..A dist):
+/D ARG 129 NE  /B TYR 55 O    no hydrogen  2.827  N/A
+/D ARG 148 N   /B ASP 51 OD1  no hydrogen  3.007  N/A
+
+
+"chain_ptm": [
+  0.65,
+  0.65,
+  0.81,
+  0.81
+ ],
+ "fraction_disordered": 0.13,
+ "has_clash": 0.0,
+ "iptm": 0.83,
+ "ptm": 0.82,
+ "ranking_score": 0.89
+
+
+demo5_2 
+at A 74 E -> G
+21 distances
+    atom1           atom2       distance
+/A ASP 119 OD1  /C HIS 156 CE1    2.396
+/A GLY 74 N     /C ASN 127 OD1    2.594
+/A ASP 119 OD1  /C HIS 156 NE2    2.616
+/A LYS 26 NZ    /C GLU 9 OE1      2.681
+/A ASP 73 OD1   /C ARG 92 NH2     2.732
+/A ASP 73 OD2   /C ARG 92 NE      2.905
+/A ASP 73 OD2   /C ASN 127 ND2    3.098
+/A MET 28 CG    /C GLU 9 O        3.184
+/A ASP 73 OD1   /C ASN 127 ND2    3.223
+/A PHE 27 CE1   /C PRO 11 CD      3.276
+/A ASP 73 CG    /C ARG 92 NH2     3.309
+/A ASP 73 OD2   /C ARG 92 NH2     3.327
+/A GLY 74 CA    /C ASN 127 OD1    3.379
+/A PHE 27 CE1   /C PRO 11 CG      3.394
+/A ASP 73 CG    /C ASN 127 ND2    3.394
+/A TYR 31 OH    /C LEU 89 CD1     3.405
+/A ASP 119 CG   /C HIS 156 CE1    3.428
+/A PHE 27 CD1   /C PRO 11 CD      3.471
+/A TYR 35 CB    /C PHE 40 CE1     3.493
+/A TYR 31 OH    /C LEU 72 N       3.496
+/A TYR 31 CE1   /C LEU 72 CB      3.499
+
+9 distances
+    atom1          atom2       distance
+/A GLN 99 OE1  /D ILE 13 CG1     2.677
+/A GLN 99 OE1  /D ILE 13 N       2.836
+/A ASP 51 OD1  /D ARG 148 N      2.844
+/A HIS 96 NE2  /D PRO 185 CD     2.852
+/A TYR 55 O    /D ARG 129 NE     2.876
+/A HIS 96 CD2  /D GLY 184 CA     2.897
+/A ASP 51 OD2  /D ARG 149 NH1    2.901
+/A ILE 53 O    /D ARG 129 CD     2.940
+/A ASP 51 OD1  /D ARG 149 NH1    2.982
+
+5 distances
+    atom1           atom2       distance
+/B ASP 119 OD1  /D HIS 156 CE1    2.530
+/B GLY 74 N     /D ASN 127 OD1    2.592
+/B LYS 26 NZ    /D GLU 9 OE1      2.688
+/B ASP 73 OD1   /D ARG 92 NH2     2.723
+/B ASP 73 OD2   /D ARG 92 NE      2.908
+
+9 distances
+    atom1          atom2       distance
+/B GLN 99 OE1  /C ILE 13 CG1     2.683
+/B ASP 51 OD1  /C ARG 148 N      2.804
+/B GLN 99 OE1  /C ILE 13 N       2.829
+/B TYR 55 O    /C ARG 129 NE     2.870
+/B ASP 51 OD2  /C ARG 149 NH1    2.895
+/B HIS 96 NE2  /C PRO 185 CD     2.917
+/B ILE 53 O    /C ARG 129 CD     2.947
+/B HIS 96 CD2  /C GLY 184 CA     2.954
+/B ASP 51 OD1  /C ARG 149 NH1    2.987
+
+Models used:
+	1 5T89_VEGF_VEGFR_demo5_2_model.cif
+
+6 H-bonds
+H-bonds (donor, acceptor, hydrogen, D..A dist, D-H..A dist):
+/A GLY 74 N     /C ASN 127 OD1  no hydrogen  2.594  N/A
+/A LYS 26 NZ    /C GLU 9 OE1    no hydrogen  2.681  N/A
+/C ARG 92 NH2   /A ASP 73 OD1   no hydrogen  2.732  N/A
+/C ARG 92 NE    /A ASP 73 OD2   no hydrogen  2.905  N/A
+/C ASN 127 ND2  /A ASP 73 OD1   no hydrogen  3.223  N/A
+/C ARG 92 NH2   /A ASP 73 OD2   no hydrogen  3.327  N/A
+
+Models used:
+	1 5T89_VEGF_VEGFR_demo5_2_model.cif
+
+6 H-bonds
+H-bonds (donor, acceptor, hydrogen, D..A dist, D-H..A dist):
+/D ILE 13 N     /A GLN 99 OE1  no hydrogen  2.836  N/A
+/D ARG 148 N    /A ASP 51 OD1  no hydrogen  2.844  N/A
+/D ARG 129 NE   /A TYR 55 O    no hydrogen  2.876  N/A
+/D ARG 149 NH1  /A ASP 51 OD2  no hydrogen  2.901  N/A
+/A LYS 58 NZ    /D HIS 91 ND1  no hydrogen  3.100  N/A
+/A GLN 99 NE2   /D PRO 11 O    no hydrogen  3.283  N/A
+
+Models used:
+	1 5T89_VEGF_VEGFR_demo5_2_model.cif
+
+6 H-bonds
+H-bonds (donor, acceptor, hydrogen, D..A dist, D-H..A dist):
+/C ARG 148 N    /B ASP 51 OD1  no hydrogen  2.804  N/A
+/C ILE 13 N     /B GLN 99 OE1  no hydrogen  2.829  N/A
+/C ARG 129 NE   /B TYR 55 O    no hydrogen  2.870  N/A
+/C ARG 149 NH1  /B ASP 51 OD2  no hydrogen  2.895  N/A
+/B LYS 58 NZ    /C HIS 91 ND1  no hydrogen  3.092  N/A
+/B GLN 99 NE2   /C PRO 11 O    no hydrogen  3.273  N/A
+
+Models used:
+	1 5T89_VEGF_VEGFR_demo5_2_model.cif
+
+6 H-bonds
+H-bonds (donor, acceptor, hydrogen, D..A dist, D-H..A dist):
+/B GLY 74 N     /D ASN 127 OD1  no hydrogen  2.592  N/A
+/B LYS 26 NZ    /D GLU 9 OE1    no hydrogen  2.688  N/A
+/D ARG 92 NH2   /B ASP 73 OD1   no hydrogen  2.723  N/A
+/D ARG 92 NE    /B ASP 73 OD2   no hydrogen  2.908  N/A
+/D ASN 127 ND2  /B ASP 73 OD1   no hydrogen  3.220  N/A
+/D ARG 92 NH2   /B ASP 73 OD2   no hydrogen  3.318  N/A
+
+
+
+
+"fraction_disordered": 0.13,
+ "has_clash": 0.0,
+ "iptm": 0.83,
+ "ptm": 0.82,
+ "ranking_score": 0.89
+
+
+For calculating hbonds 
+hbonds /B restrict /D showDist true log true
+
+For calculating distances 
+contacts /B restrict /C distanceOnly 4.0 log true
+
+
+ENERGY 
+From openMM
+original one 
+Potential Energy: -17996.76868641639 kJ/mol
+
+demo5_1 at A 74 E -> Q
+Potential Energy: -15155.15948836239 kJ/mol
+
+demo5_2 at A 74 E -> G
+Potential Energy: -14273.59893736533 kJ/mol
+

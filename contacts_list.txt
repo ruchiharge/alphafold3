@@ -1,0 +1,16 @@
+Ignore distances between atoms separated by 4 bonds or less
+Detect intra-residue distances: False
+Detect intra-molecule distances: True
+
+10 distances
+    atom1           atom2       distance
+/A GLU 74 OE2   /C ASN 158 ND2    2.536
+/A GLU 74 OE1   /C ARG 129 NH2    2.536
+/A GLU 74 OE2   /C ASN 127 N      2.619
+/A GLU 74 OE1   /C ARG 129 NH1    2.675
+/A LYS 26 NZ    /C GLU 9 OE1      2.692
+/A ASP 73 OD1   /C ARG 92 NH2     2.708
+/A ASP 119 OD1  /C HIS 156 CE1    2.775
+/A GLU 74 OE1   /C GLN 152 NE2    2.808
+/A ASP 73 OD2   /C ARG 92 NE      2.851
+/A GLU 74 N     /C ASN 127 OD1    2.887

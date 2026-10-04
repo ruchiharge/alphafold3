@@ -1,0 +1,16 @@
+in the report.md file 
+in the introduction add the fact that there are 20 naurally occuring amino acids and name them asd well
+also add the long term vision in the report that we need to predict the different mutations in a virus to develpop vaccines against it which is usually a very long process but this project can shorten it and make it much simpler 
+
+in section 6.1 add the ptm results for single chain without dimer, you can look up the data in the VEGFR_VEGFA_complex_seed1
+
+also all along the report explicitly mention whenever you use the D2/D3 sequence instyead of the whole sequence in VEGFR chains 
+
+add in the report that even when we observe low score in the bivizumab antibody against VEGFR-VEGFA interaction still in real life we use the antibody because of multiple reasons like 
+the bivizumab antibodies are much larger in number in comparison to Vegfr, also the vegfr is fixed to the cell membrane not much mobile 
+
+in section 6.4 mention that the RaniBivizumab is just the fab sequence 
+
+in section 7 mention the changes in acidity at the start of the section only not later in section 7.1 and that is why we choose those mutations 
+
+check for spelling mistakes all over the report and correct it if found

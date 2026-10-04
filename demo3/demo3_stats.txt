@@ -1,0 +1,25 @@
+demo3_1
+light chain A,C
+heavy chain B,D
+vegfA(cut) E,F  13 - 108 
+Chain Index,Binds Strongly To,Binds Moderately To,Does NOT Bind To
+0,1 (0.78),None,"2, 3, 4, 5, 6, 7"
+1,0 (0.78),None,"2, 3, 4, 5, 6, 7"
+2,3 (0.76),None,"0, 1, 4, 5, 6, 7"
+3,2 (0.76),None,"0, 1, 4, 5, 6, 7"
+4,5 (0.81),"6, 7 (~0.62)","0, 1, 2, 3"
+5,4 (0.81),"6, 7 (~0.60)","0, 1, 2, 3"
+6,None,"4, 5 (~0.60)",7 (and others)
+7,None,"4, 5 (~0.60)",6 (and others)
+
+
+demo3_2
+light chain A,C
+heavy chain B,D
+vegfA(cut) E,F  13 - 108
+vegfR(cut) G,H -> D2,D3 -> 134 - 328 
+
+
+demo3_3
+vegfA(cut) A,B 13-108
+vegfR(cut) D1&D2 -> 32-127

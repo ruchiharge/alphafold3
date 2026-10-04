@@ -1,0 +1,29 @@
+# User-requested exclusions
+resume_it.txt
+CLAUDE.md
+.claude/
+
+bin/*
+
+# Report bundle — kept locally only, not pushed to GitHub
+# report/
+# /FinalReport.md
+/PresentationScript.md
+/Midsem_Report_OptimalAntibodyAntigen.pdf
+/*.mp4
+/image.png
+/image-[0-9].png
+/original_to_take_vegf-A.png
+
+# Tool installer (388 MB — exceeds GitHub's 100 MB per-file limit)
+ChimeraX-1.11.1.exe
+
+# Archival snapshots of unpacked directories — the unpacked dirs are authoritative
+*.zip
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+
+AGENTS.md

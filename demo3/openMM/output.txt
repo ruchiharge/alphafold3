@@ -1,0 +1,5 @@
+File Name, Potential Energy (kJ/mol)
+----------------------------------------
+demo3_1_6BFT_complex_model.cif, 74785.50656043207 kJ/mol
+demo3_2_6BFT_complex_vegfr_model.cif, 235558.70822301507 kJ/mol
+demo3_3_6BFT_2_VEGFR_D1_D2_2_VEGFA_model.cif, 7551.079945727863 kJ/mol

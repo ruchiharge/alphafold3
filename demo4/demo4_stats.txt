@@ -1,0 +1,12 @@
+demo4_1
+A,B->VegFa
+C,E->light chain 
+D,F -> heavy chain 
+
+
+demo4_2
+vegfA(cut) A,B  13 - 108
+C,E->light chain 
+D,F -> heavy chain
+vegfR(cut) G,H -> D2,D3 -> 134 - 328
+

@@ -1,0 +1,14 @@
+Ignore distances between atoms separated by 4 bonds or less
+Detect intra-residue distances: False
+Detect intra-molecule distances: True
+
+8 distances
+    atom1          atom2      distance
+/A HIS 96 CD2  /C GLY 184 CA    2.628
+/A TYR 55 O    /C ARG 129 NE    2.805
+/A ASP 51 OD1  /C ARG 148 O     2.811
+/A HIS 96 NE2  /C GLY 184 CA    2.952
+/A HIS 96 NE2  /C ASN 95 ND2    2.970
+/A ASP 51 OD1  /C ARG 148 N     2.976
+/A ILE 53 O    /C ARG 129 CD    2.986
+/A HIS 96 CE1  /C PRO 185 CD    2.998

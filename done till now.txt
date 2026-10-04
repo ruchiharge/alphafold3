@@ -1,0 +1,32 @@
+done till now
+
+(run 1)
+in the first iteration we wanted to see if the alphafold3 is correctly working on the high performance computing server here at bits Hyderabad so we choose and example to start with which was VEGFR and VEGFA complex so we made the json file with the sequence of one each but when we ran it we observed that it was very different from the structure on the protein data bank this was because for the correct bindings of these chains we need two chains of each, as the chains dimerize and form a complex together  
+
+(run 2)
+in the second run we fixed the number of chains and ran Alphafold again on the json file with the 2 chain sequences of each VEGFA and VEGFR, the structure we got was close to what was available on the protein data bank but the ends of chains were flying out(which was the model trying to fit the sequence anyhow). this was because some ends of the chains in the molecule gets detached as the chains came together and we included it in the sequence.
+
+(run 3)
+in the third run we made 3 models 
+1. was Bevacizumab Fab mutant in complex with VEGFA 
+in this the chains were cut (so they don't fly out from the end) 
+the json consisted of 2 heavy chains of Bevacizumab (named B and D), 2 light chains of Bevacizumab (named A and C)
+and 2 chains of VEGFA
+
+
+2. was Bevacizumab Fab mutant in complex with VEGFA and VEGFR (domains D2 and D3 of VEGFR)
+in this the chains were cut for both VEGFA and VEGFR(so they don't fly out from the end) 
+the json consisted of 2 heavy chains of Bevacizumab (named B and D), 2 light chains of Bevacizumab (named A and C)
+and 2 chains of VEGFA (named A and B) and 2 chains of VEGFR named( G and H )
+this model was made to see if the presence of Bevacizumab will hinder the reaction of VEGFR and VEGFA 
+
+3. was VEGFA and VEGFR (domains D1 and D2 of VEGFR)
+in this the json has 2 chains of VEGFR and 2 chains of VEGFA (both cut so the ends don't fly out)
+this model was made to compare if the domains D1 and D2 has the same level of reaction with VEGFA in comparison with using domains D2 and D3 of VEGFR with VEGFA.
+
+
+(run 4)
+in this run we made 2 models one was 
+
+claude --resume e2ea6145-e279-4273-ac37-4f2535d566ed
+   

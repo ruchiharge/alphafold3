@@ -1,0 +1,14 @@
+original one 
+Potential Energy: -17996.76868641639 kJ/mol
+
+Potential Energy: -33438.28581341223 kJ/mol
+
+demo5_1
+Potential Energy: -15155.15948836239 kJ/mol
+
+Potential Energy: -32913.91662534889 kJ/mol
+
+demo5_2
+Potential Energy: -14273.59893736533 kJ/mol
+
+Potential Energy: -24006.735181189848 kJ/mol

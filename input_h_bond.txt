@@ -1,0 +1,6 @@
+/B GLY 74 N     /D ASN 127 OD1  no hydrogen  2.592  N/A
+/B LYS 26 NZ    /D GLU 9 OE1    no hydrogen  2.688  N/A
+/D ARG 92 NH2   /B ASP 73 OD1   no hydrogen  2.723  N/A
+/D ARG 92 NE    /B ASP 73 OD2   no hydrogen  2.908  N/A
+/D ASN 127 ND2  /B ASP 73 OD1   no hydrogen  3.220  N/A
+/D ARG 92 NH2   /B ASP 73 OD2   no hydrogen  3.318  N/A
